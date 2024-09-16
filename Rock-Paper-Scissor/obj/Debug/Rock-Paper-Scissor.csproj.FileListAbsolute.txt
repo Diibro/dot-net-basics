@@ -1,0 +1,7 @@
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.exe.config
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.exe
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.pdb
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.csproj.AssemblyReference.cache
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.csproj.CoreCompileInputs.cache
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.exe
+C:\Users\dushime\source\repos\dot-net-basics\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.pdb
